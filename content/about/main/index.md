@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  For my future research...
+  Under construction...
   
 show_outro: false
 outro: |

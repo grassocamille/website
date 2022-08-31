@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a cognitive scientist interested in time perception. Website under construction... 
+description: I am a cognitive scientist interested in time perception... Website under construction... 
 image_left: true
 images:
 - img/unnamed.jpg
