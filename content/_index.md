@@ -8,7 +8,7 @@ images:
 - img/unnamed.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Neuropsychologist & PhD in cognitive psychology. 
+subtitle: Neuropsychologist & PhD in cognitive psychology and neurosciences
 text_align_left: false
 title: Camille Grasso
 type: home

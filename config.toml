@@ -1,8 +1,8 @@
 baseURL = "https://grassocamille.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Camille L. Grasso"
-author = "Camille L. Grasso"
+title = "Camille Grasso"
+author = "Camille Grasso"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
