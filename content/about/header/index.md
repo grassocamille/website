@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, nice to meet you.
+  Hi, welcome to my personal website!
 ---
 
 <!-- this is a subheadline -->
