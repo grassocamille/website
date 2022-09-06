@@ -1,29 +1,28 @@
 ---
-author: Alison Hill
+author: 
 categories:
 - workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+date: ""
+date_end: ""
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
-featured: true
+event: 
+event_url: 
+excerpt: 
+featured: false
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
+location: 
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: 
+title:
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+
