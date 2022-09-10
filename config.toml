@@ -97,11 +97,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://orcid.org/my-orcid?orcid=0000-0002-7549-7395"
   [[params.social]]
       icon      = "osf" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://osf.io/dashboard"
+      url       = "https://osf.io/du25g"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
