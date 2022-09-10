@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event: 
 event_url: 
-excerpt: "Grasso, C. L., Ziegler, J. C.,J., Coull, J. T., & Montant, M. (2022). Eye movements through space interfere with visual processing of time-related words. Under review."
+excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Eye movements through space interfere with visual processing of time-related words. Under review."
 featured: true
 layout: single
 links:
