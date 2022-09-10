@@ -139,6 +139,11 @@ enableEmoji = true
     title = "Publications"
     url = "/publications/"
     weight = 4
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/files/cv.pdf"
+    weight = 6
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
