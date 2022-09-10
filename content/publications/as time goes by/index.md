@@ -21,7 +21,6 @@ links:
   url: https://osf.io/7gt9k/
 location: France
 show_post_time: false
-subtitle: 
 title: "As time goes by: Space-time compatibility effect in word recognition"
 ---
 
