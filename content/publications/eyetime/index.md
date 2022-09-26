@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event: 
 event_url: 
-excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Eye movements through space interfere with visual processing of time-related words. *Under review*."
+excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Space-time congruency effects using eye movements during processing of past-and future related words . *In press*. Accepted in Experimental Psychology"
 featured: true
 layout: single
 links:
@@ -21,8 +21,8 @@ links:
   url: https://osf.io/5ehnc/
 location: France
 show_post_time: false
-title: "Eye movements through space interfere with visual processing of time-related words"
+title: "Space-time congruency effects using eye movements during processing of past-and future related words"
 
 ---
 
-When people make lexical decisions to words referring to the past or the future, they are faster when their manual responses are compatible with the mental timeline (MTL). That is, future words are responded to faster on the right than the left, while past words are responded to faster on the left than the right. This space-time congruency effect is interpreted to suggest that time words are represented along a spatial continuum that goes from left to right (past to future), at least in Western cultures that use reading-writing systems operating from left to right. All previous experiments used lateralized hand movements to register responses, which would evoke the directionality of writing. To evoke the directionality of reading, we investigated whether the space-time congruency effect would be replicated in a language task when responses were given using the eyes rather than the hand. Thus, participants were asked to make lateralized eye movements to indicate whether letter stimuli were real words or not (lexical decision). Eye movements were perturbed for responses incompatible with the direction of the MTL, both in terms of decision time and motor amplitude. These results confirm that time-related words are embodied through spatial movement in effector-independent motor networks and suggests that the spatial representation of time operates in a body-centered reference frame.
+In Western cultures where people read and write from left-to-right, time is represented along a spatial continuum that goes from left to right (past to future), known as the mental timeline (MTL). In language, this MTL was supported by space-time congruency effects: people are faster to make lexical decisions to words conveying past or future information when left/right manual responses are compatible with the MTL. Alternatively, in cultures where people read from right-to-left, space-time congruency effects go in the opposite direction. Such cross-cultural differences suggest that repeated writing and reading dynamic movements are critically involved in the spatial representation of time. In most experiments on the space-time congruency effect, participants use their hand for responding, an effector that is associated to the directionality of writing. To investigate the role of the directionality of reading in the space-time congruency effect, we asked participants to make lateralized eye movements (left or right saccades) to indicate whether stimuli were real words or not (lexical decision). Eye movement responses were slower and higher in amplitude for responses incompatible with the direction of the MTL. These results reinforce the claim that repeated directional reading and writing movements promote the embodiment of time-related words.
