@@ -14,7 +14,8 @@ link_list:
 - name: Music (a lot of music)
   url: https://open.spotify.com/user/16crd0u80yhfa4qpm5i59x0vp
 - name: Cooking
-  url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNp5PF6fP5AhUI2xoKHe6FArkQFnoECAMQAQ&url=https%3A%2F%2Fmafourchetteestitalienne.com%2F&usg=AOvVaw371EkcAZV70D8Kpemd4Jub
+  url: 
+
 ---
 
 ** index doesn't contain a body, just front matter above.

@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event: 
 event_url: 
-excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Embodied time: Effect of reading expertise on the spatial representation of past and future. *Under review*."
+excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Embodied time: Effect of reading expertise on the spatial representation of past and future. *In press*. Accepted in PLOS ONE"
 featured: true
 layout: single
 links:
