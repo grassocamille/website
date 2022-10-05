@@ -1,12 +1,11 @@
 ---
 ## Configure page content in wide column
-title: "What's next?" # leave blank to exclude
+title: "This page aims at presenting my research interests (past and future) in more details." # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Welcome to my website! This page aims at presenting my research interests (past and future) in more details. 
   
   I have always been fascinated by time (physical and subjective) and how we can perceive and conceptualize something so elusive, and yet essential to successful interaction with the environment.
   
