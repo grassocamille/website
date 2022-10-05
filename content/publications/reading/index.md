@@ -2,8 +2,7 @@
 author: Camille Grasso
 categories:
 - publications
-date: ""
-date_end: ""
+date: 2022-10-04
 draft: false
 event: 
 event_url: 
