@@ -17,7 +17,7 @@ intro: |
   To complement the behavioral work I have already conducted, I would now like to develop further my technical and neuroscientific skills (e.g., TMS, virtual reality).
   
   Besides my research-focused training, I am also a qualified neuropsychologist. Accordingly, I would like to investigate time cognition both in typically and atypically developing individuals (especially in Parkinson's disease, schizophrenia, and ADHD).
-show_outro: true
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
