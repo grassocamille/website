@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected publications on Camille Grasso</title>
+    <link>https://grassocamille.netlify.app/publications/</link>
+    <description>Recent content in Selected publications on Camille Grasso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://grassocamille.netlify.app/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embodied time: Effect of reading expertise on the spatial representation of past and future</title>
+      <link>https://grassocamille.netlify.app/publications/reading/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/publications/reading/</guid>
+      <description>How do people grasp the abstract concept of time? It has been argued that abstract concepts, such as future and past, are grounded in sensory-motor experience. When responses to words that refer to the past or the future are either spatially compatible or incompatible with a left-to-right timeline, a space-time congruency effect is observed. In the present study, we investigated whether reading expertise would determine the strength of the space-time congruency effect, which would suggest that learning to read and write drives the effect.</description>
+    </item>
+    
+    <item>
+      <title>Space-time congruency effects using eye movements during processing of past-and future related words</title>
+      <link>https://grassocamille.netlify.app/publications/eyetime/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/publications/eyetime/</guid>
+      <description>In Western cultures where people read and write from left-to-right, time is represented along a spatial continuum that goes from left to right (past to future), known as the mental timeline (MTL). In language, this MTL was supported by space-time congruency effects: people are faster to make lexical decisions to words conveying past or future information when left/right manual responses are compatible with the MTL. Alternatively, in cultures where people read from right-to-left, space-time congruency effects go in the opposite direction.</description>
+    </item>
+    
+    <item>
+      <title>As time goes by: Space-time compatibility effect in word recognition</title>
+      <link>https://grassocamille.netlify.app/publications/as-time-goes-by/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/publications/as-time-goes-by/</guid>
+      <description>The processing of time activates a spatial left-to-right mental timeline, where past events are “located” to the left and future events to the right. If past and future words activate this mental timeline, then the processing of such words should interfere with hand movements that go in the opposite direction. To test this hypothesis, we conducted three visual lexical decision tasks with conjugated (past/future) verbs and pseudo-verbs. In Experiment 1, participants moved a pen to the right or left of a trackpad to indicate whether a visual stimulus was a real word or not.</description>
+    </item>
+    
+  </channel>
+</rss>

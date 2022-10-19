@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camille Grasso</title>
+    <link>https://grassocamille.netlify.app/</link>
+    <description>Recent content on Camille Grasso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://grassocamille.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netlify</title>
+      <link>https://grassocamille.netlify.app/collection/day02/01-netlify/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/day02/01-netlify/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>A GitHub profile</title>
+      <link>https://grassocamille.netlify.app/collection/day01/01-github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/day01/01-github/</guid>
+      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Prework</title>
+      <link>https://grassocamille.netlify.app/collection/prework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/prework/</guid>
+      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
+    </item>
+    
+    <item>
+      <title>A postcard</title>
+      <link>https://grassocamille.netlify.app/collection/day01/02-postcards/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/day01/02-postcards/</guid>
+      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) ✨ Commit &amp;amp; Push! ✨</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown</title>
+      <link>https://grassocamille.netlify.app/collection/day02/02-blogdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/day02/02-blogdown/</guid>
+      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;#34;blogdoown&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;blogdown&amp;#34;) [1] ‘1.0’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-blogdown.git&amp;#34;) ✨ Commit &amp;amp; Push! ✨</description>
+    </item>
+    
+    <item>
+      <title>A distill site</title>
+      <link>https://grassocamille.netlify.app/collection/day01/03-distill/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/day01/03-distill/</guid>
+      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) ✨ Commit &amp;amp; Push!</description>
+    </item>
+    
+    <item>
+      <title>Warm woolen mittens</title>
+      <link>https://grassocamille.netlify.app/collection/day02/03-blogdown/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/collection/day02/03-blogdown/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    
+    <item>
+      <title>Embodied time: Effect of reading expertise on the spatial representation of past and future</title>
+      <link>https://grassocamille.netlify.app/publications/reading/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/publications/reading/</guid>
+      <description>How do people grasp the abstract concept of time? It has been argued that abstract concepts, such as future and past, are grounded in sensory-motor experience. When responses to words that refer to the past or the future are either spatially compatible or incompatible with a left-to-right timeline, a space-time congruency effect is observed. In the present study, we investigated whether reading expertise would determine the strength of the space-time congruency effect, which would suggest that learning to read and write drives the effect.</description>
+    </item>
+    
+    <item>
+      <title>Space-time congruency effects using eye movements during processing of past-and future related words</title>
+      <link>https://grassocamille.netlify.app/publications/eyetime/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/publications/eyetime/</guid>
+      <description>In Western cultures where people read and write from left-to-right, time is represented along a spatial continuum that goes from left to right (past to future), known as the mental timeline (MTL). In language, this MTL was supported by space-time congruency effects: people are faster to make lexical decisions to words conveying past or future information when left/right manual responses are compatible with the MTL. Alternatively, in cultures where people read from right-to-left, space-time congruency effects go in the opposite direction.</description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://grassocamille.netlify.app/talk/second-seedling/</link>
+      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/talk/second-seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>As time goes by: Space-time compatibility effect in word recognition</title>
+      <link>https://grassocamille.netlify.app/publications/as-time-goes-by/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/publications/as-time-goes-by/</guid>
+      <description>The processing of time activates a spatial left-to-right mental timeline, where past events are “located” to the left and future events to the right. If past and future words activate this mental timeline, then the processing of such words should interfere with hand movements that go in the opposite direction. To test this hypothesis, we conducted three visual lexical decision tasks with conjugated (past/future) verbs and pseudo-verbs. In Experiment 1, participants moved a pen to the right or left of a trackpad to indicate whether a visual stimulus was a real word or not.</description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://grassocamille.netlify.app/talk/seedling/</link>
+      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/talk/seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://grassocamille.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://grassocamille.netlify.app/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/elements/</guid>
+      <description>Font Sizes A A A A A A A A 6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://grassocamille.netlify.app/talk/campfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/talk/campfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://grassocamille.netlify.app/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://grassocamille.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grassocamille.netlify.app/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+    
+  </channel>
+</rss>
