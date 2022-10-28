@@ -6,14 +6,14 @@ date: 2022-10-04
 draft: false
 event: 
 event_url: 
-excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Embodied time: Effect of reading expertise on the spatial representation of past and future. *In press*. Accepted in PLOS ONE"
+excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Embodied time: Effect of reading expertise on the spatial representation of past and future. PLoS ONE 17(10): e0276273. https://doi.org/10.1371/journal.pone.0276273"
 featured: true
 layout: single
 links:
-- icon: psyarxiv
+- icon: doi
   icon_pack: ai
-  name: Preprint
-  url: https://psyarxiv.com/qkz9r/
+  name: Paper
+  url: https://doi.org/10.1371/journal.pone.0276273
 - icon: osf
   icon_pack: ai
   name: Materials

@@ -13,7 +13,7 @@ links:
 - icon: hal
   icon_pack: ai
   name: Paper
-  url: https://hal-univ-paris13.archives-ouvertes.fr/SFERE-PROVENCE/hal-03193618v1
+  url: https://hal-amu.archives-ouvertes.fr/SFERE-PROVENCE/hal-03193618v1
 - icon: osf
   icon_pack: ai
   name: Materials
