@@ -11,11 +11,11 @@ intro: |
   
   During my PhD, I have been interested in the way we conceptualize time, that is how we represent and process temporal abstract concepts (i.e., past and future) through an embodied perspective of language. Based on theoretical proposals such as neural reuse and correlational learning (Hebbian and anti-hebbian learning), the underlying question we tackled was how we process past- and future-related concepts with respect to the mental timeline (i.e., past to the left space and future to the right space). I have carried out seven behavioural studies (both in lab and online, due to the global pandemic) with adults and children, recording both reaction times and eyetracking data. Overall, results of my PhD suggests that movement plays a key role for the grounding (and the processing) of past- and future-related concepts. 
 
-  After studying how we conceptualize time, in the future I would like to study how we perceive time. I am convinced that we gradually learn to estimate time through sensorimotor interactions, using and combining internal and external cues. For instance, I would like to investigate the role of multisensory integration in timing, as described for instance by Bayesian cue-combination models. 
+  After studying how we conceptualize time, I am now studying how we perceive time. I am convinced that we gradually learn to estimate time through sensorimotor interactions, using and combining internal and external cues. For instance, I am interesting to investigate the role of multisensory integration in timing, as described for instance by Bayesian cue-combination models. 
   
   To complement the behavioural work I have already conducted, I am now developing further my technical and neuroscientist skills (e.g., EEG, MEG, virtual reality) as a postdoctoral researcher involved in the [EXPERIENCE Project](https://experience-project.eu), supervised by Virginie van Wassenhove at Neurospin. 
   
-  Besides my research-focused training, I am also a qualified neuropsychologist. Accordingly, I would like to investigate time cognition both in typically and atypically developing individuals (especially in Parkinson's disease, schizophrenia, and ADHD).
+  Besides my research-focused training, I am also a qualified neuropsychologist. Accordingly, in the future, I would like to investigate time cognition both in typically and atypically developing individuals (especially in Parkinson's disease, schizophrenia, and ADHD).
   
 show_outro: false
 outro: |
