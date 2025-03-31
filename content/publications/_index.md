@@ -1,7 +1,7 @@
 ---
-author: Camille Grasso
+author: Camille L. Grasso
 cascade:
-  author: Camille Grasso
+  author: Camille L. Grasso
   show_author_byline: true
   show_comments: false
   show_post_date: false
