@@ -11,14 +11,14 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  Here is list of selected scientific presentations I have given, including posters, conference talks, and seminar presentations. 
+  Here is list of selected scientific presentations I have given, including posters, conference talks, workshop and seminar presentations. 
 layout: list
 layout: list
 show_author_byline: false
 show_button_links: true
-show_post_date: false
-show_post_thumbnail: true
-show_post_time: true
+show_post_date: true
+show_post_thumbnail: false
+show_post_time: false
 sidebar:
   author: Camille L. Grasso
   description: ""
