@@ -4,7 +4,7 @@ subtitle: A simple and elegant method using R
 author: Camille L. Grasso 
 categories:
   - workshop
-date: "2024-10-10"
+date: "2025-28-01"
 date_end: ""
 draft: false
 event: R Workshop – Research Tools
@@ -18,7 +18,7 @@ links:
   - icon: file
     icon_pack: fas
     name: View presentation
-    url: /files/talks/gantt_slides.html
+    url: /files/talks/gantt/gantt_slides.html
 ---
 
 In this short workshop, I presented a simple and effective method to create Gantt charts using R and `ggplot2`. The goal was to help researchers visually organize project timelines and work packages in a way that is both professional and clear.
