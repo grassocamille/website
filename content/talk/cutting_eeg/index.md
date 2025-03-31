@@ -4,11 +4,11 @@ subtitle: Sizing up time: EEG decoding of duration production in virtual environ
 author: Camille L. Grasso 
 categories:
   - posters
-date: ""
+date: "2023-18-10"
 date_end: ""
 draft: false
 event: conferences
-event_url: ""
+event_url: https://cuttinggardens2023.org
 location: Lyon
 excerpt: 
 featured: false
