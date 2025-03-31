@@ -21,6 +21,3 @@ links:
     url: https://grassocamille.netlify.app/files/fast_23.pdf
 ---
 
-In this short workshop, I presented a simple and effective method to create Gantt charts using R and `ggplot2`. The goal was to help researchers visually organize project timelines and work packages in a way that is both professional and clear.
-
-The talk includes code examples, visuals, and ready-to-use templates to adapt for your own grant proposals. Enjoy :-)
