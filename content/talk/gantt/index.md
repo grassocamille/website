@@ -18,7 +18,7 @@ links:
   - icon: file
     icon_pack: fas
     name: View presentation
-    url: static/files/gantt_slides.html
+    url: https://grassocamille.netlify.app/files/gantt_slides.html
 ---
 
 In this short workshop, I presented a simple and effective method to create Gantt charts using R and `ggplot2`. The goal was to help researchers visually organize project timelines and work packages in a way that is both professional and clear.
