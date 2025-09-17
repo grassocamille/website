@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  Here is list of selected scientific presentations I have given, including posters, conference talks, workshop and seminar presentations. 
+  Here is list of selected scientific presentations, including posters, conference talks, workshop and seminar presentations. 
 layout: list
 layout: list
 show_author_byline: false
