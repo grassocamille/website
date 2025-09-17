@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>workshop on Camille Grasso</title>
-    <link>https://grassocamille.netlify.app/categories/workshop/</link>
-    <description>Recent content in workshop on Camille Grasso</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://grassocamille.netlify.app/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://grassocamille.netlify.app/talk/campfire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://grassocamille.netlify.app/talk/campfire/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshop on Camille Grasso</title><link>https://grassocamille.netlify.app/categories/workshop/</link><description>Recent content in Workshop on Camille Grasso</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://grassocamille.netlify.app/categories/workshop/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Create Beautiful Gantt Charts for Your Grant Application</title><link>https://grassocamille.netlify.app/talk/gantt/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://grassocamille.netlify.app/talk/gantt/</guid><description>&lt;p&gt;In this short workshop, I presented a simple and effective method to create Gantt charts using R and &lt;code&gt;ggplot2&lt;/code&gt;. The goal was to help researchers visually organize project timelines and work packages in a way that is both professional and clear.&lt;/p&gt;
+&lt;p&gt;The talk includes code examples, visuals, and ready-to-use templates to adapt for your own grant proposals. Enjoy :-)&lt;/p&gt;</description></item></channel></rss>

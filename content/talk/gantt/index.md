@@ -4,7 +4,7 @@ subtitle: A simple and elegant method using R
 author: Camille L. Grasso 
 categories:
   - workshop
-date: "2025-28-01"
+date: "2025-01-28"
 date_end: ""
 draft: false
 event: R Workshop – Research Tools
