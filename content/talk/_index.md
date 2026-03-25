@@ -13,7 +13,6 @@ cascade:
 description: |
   Here is list of selected scientific presentations, including poster, conference talk, workshop and seminar presentations. 
 layout: list
-layout: list
 show_author_byline: false
 show_button_links: true
 show_post_date: false

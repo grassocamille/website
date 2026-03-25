@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "This page aims at presenting my research interests (past and future) in more details." # leave blank to exclude
+title: "Current research and scientific trajectory"
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude

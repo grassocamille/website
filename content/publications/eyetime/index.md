@@ -6,14 +6,14 @@ date: 2022-09-23
 draft: false
 event: 
 event_url: 
-excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Space-time congruency effects using eye movements during processing of past-and future related words . *In press*. Accepted in Experimental Psychology"
+excerpt: "Grasso, C. L., Ziegler, J. C., Coull, J. T., & Montant, M. (2022). Space-time congruency effects using eye movements during processing of past-and future related words. Experimental Psychology, 69 (4), 210–217. https://doi.org/10.1027/1618-3169/a000559"
 featured: true
 layout: single
 links:
-- icon: psyarxiv
+- icon: doi
   icon_pack: ai
-  name: Preprint
-  url: https://psyarxiv.com/mhaxd/
+  name: Paper
+  url: https://doi.org/10.1027/1618-3169/a000559
 - icon: osf
   icon_pack: ai
   name: Materials
