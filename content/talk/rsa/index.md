@@ -20,7 +20,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: "View slides"
-    url: "https://grassocamille.netlify.app/files/RSA_0204_grasso.pdf"
+    url: "https://grassocamille.netlify.app/files/RSA_0206_grasso.pdf"
 ---
 
 These slides are a modest and certainly non-exhaustive introduction to Representational Similarity Analysis (RSA). They cover the basic logic of RDMs, model comparison, dissimilarity measures, statistical inference, and a few examples using behavioural and EEG data.
